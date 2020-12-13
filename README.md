@@ -1,24 +1,46 @@
-# hello
+# CREATE PROJECT VUEJS
 
-## Project setup
+## Prerequisites
+
+- NodeJS.
+
+- yarn.
+
+- Git
+
+## Start
+
+### Installation
+
 ```
-yarn install
+$ yarn global add @vue/cli
+$ vue create my-project
+$ cd my-project
+```
+### Project setup
+
+```
+$ yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Complies and hot-reloads for development
+
 ```
-yarn serve
+$ yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### Complies and minifies for production
 
+```
+$ yarn build
+```
 ### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
+$ yarn lint
+```
+### Add Sass
+
+```
+$ yarn add sass-loader
+```

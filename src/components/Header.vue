@@ -1,7 +1,7 @@
 <template>
   <header>
       <h1 class="heading">
-        <h2 class="sub-headding">aaa</h2>  
+        <h2 class="sub-heading">aaa</h2>  
         Hello World!!!
       </h1>
   </header>
@@ -16,7 +16,5 @@ export default {
 </script>
 
 <style lang="scss">
-
-//@import "@/assets/scss/index.scss";
 
 </style>

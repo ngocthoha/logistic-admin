@@ -44,3 +44,5 @@ $ yarn lint
 ```
 $ yarn add sass-loader
 ```
+
+- [CSS clip-path maker](https://bennettfeely.com/clippy/)

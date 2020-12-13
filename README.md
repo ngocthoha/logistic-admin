@@ -42,7 +42,6 @@ $ yarn lint
 ### Add Sass
 
 ```
-$ yarn add sass-loader
 $ yarn add sass-loader node-sass --dev
 ```
 

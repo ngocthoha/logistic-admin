@@ -43,6 +43,7 @@ $ yarn lint
 
 ```
 $ yarn add sass-loader
+$ yarn add sass-loader node-sass --dev
 ```
 
 - [CSS clip-path maker](https://bennettfeely.com/clippy/)

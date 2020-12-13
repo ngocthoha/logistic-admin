@@ -1,18 +1,13 @@
 <template>
-  <component-header/>
+  <Header></Header>
 </template>
 
 <script>
-import ComponentHeader from './components/ComponentHeader.vue'
-
+import Header from './components/Header.vue'
 export default {
   name: 'App',
   components: {
-    ComponentHeader
+    Header
   }
 }
 </script>
-
-<style>
-
-</style>
